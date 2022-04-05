@@ -7,8 +7,8 @@
 * Create other folders inside this folder corresponding to the different projects you're working on and move your source codes to these folders
 * Open local repo in terminal or command line and create a new branch using 'git checkout -b <branch name'
 * Stage changes using `git add .`
-*Commit changes using `git commit -m <name of commit`
-*Push codes and changes to branch on github using `git push origin <branch name`
-*Open github on web browser and create a Pull request to update original repo with your codes and changes
-*Administrator will review your commits and then approve merging with the original repo
+* Commit changes using `git commit -m <name of commit`
+* Push codes and changes to branch on github using `git push origin <branch name`
+* Open github on web browser and create a Pull request to update original repo with your codes and changes
+* Administrator will review your commits and then approve merging with the original repo
 
